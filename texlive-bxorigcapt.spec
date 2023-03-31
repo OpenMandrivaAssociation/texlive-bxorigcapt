@@ -1,6 +1,6 @@
 Name:		texlive-bxorigcapt
 Version:	64072
-Release:	1
+Release:	2
 Summary:	To retain the original caption names when using Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxorigcapt
