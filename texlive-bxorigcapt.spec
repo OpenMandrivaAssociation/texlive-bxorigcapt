@@ -3,7 +3,7 @@ Version:	64072
 Release:	2
 Summary:	To retain the original caption names when using Babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxorigcapt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxorigcapt
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxorigcapt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxorigcapt.doc.r%{version}.tar.xz
